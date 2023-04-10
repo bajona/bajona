@@ -1,14 +1,18 @@
+
+
+
 ### Olá! Bem vindo ao meu Perfil! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🔭 Atualmente estou praticando Front-end, Algoritmos e Lógica de Programação.
+- 🌱 Aprendendo diversas áreas de programação, Front, Back, Python, C++, C#, etc.
+- 📫 Contato: bajonasantossp@gmail.com
 
-<aside style="position: fixed; display: inline">
-  <img align="right" alt="minhafoto-pic" height="150" style="border-radius:80px; padding: 200px;" src="https://media.licdn.com/dms/image/C4D03AQFJiJONILtwGw/profile-displayphoto-shrink_800_800/0/1662981944043?e=2147483647&v=beta&t=edfmEhjXuVsyPiq8YEyBKNs34DySwLnDs83JMETDT3g">
-  </aside>
+<div style="position: fixed; display: inline-block">
+    <img align="right" alt="minhafoto-pic" height="100" style="border-radius:80px; margin: 0px;" src="https://media.licdn.com/dms/image/C4D03AQFJiJONILtwGw/profile-displayphoto-shrink_800_800/0/1662981944043?e=2147483647&v=beta&t=edfmEhjXuVsyPiq8YEyBKNs34DySwLnDs83JMETDT3g">  
+  </div>
 
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="bajona-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bajona-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="bajona-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,6 +20,14 @@
   <img align="center" alt="bajona-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bajona-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bajona-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+ </div>
 
+##
 
+  <div> 
+    <a href="https://www.instagram.com/paulo_bajona/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/bajoninha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bajonasantossp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-bajona" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  </div>
