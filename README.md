@@ -7,10 +7,6 @@
 - 🌱 Aprendendo diversas áreas de programação, Front, Back, Python, C++, C#, etc.
 - 📫 Contato: bajonasantossp@gmail.com
 
-<div style="position: fixed; display: inline-block">
-    <img align="right" alt="minhafoto-pic" height="100" style="border-radius:80px; margin: 0px;" src="https://media.licdn.com/dms/image/C4D03AQFJiJONILtwGw/profile-displayphoto-shrink_800_800/0/1662981944043?e=2147483647&v=beta&t=edfmEhjXuVsyPiq8YEyBKNs34DySwLnDs83JMETDT3g">  
-  </div>
-
 <div style="display: inline_block"><br>
   
   <img align="center" alt="bajona-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
