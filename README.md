@@ -16,7 +16,10 @@
   <img align="center" alt="bajona-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bajona-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bajona-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- </div>
+</div>
+
+##
+[![Top Langs style="align = center;"](https://github-readme-stats.vercel.app/api/top-langs/?username=bajona&layout=compact)](https://github.com/bajona/github-readme-stats)
 
 ##
 
