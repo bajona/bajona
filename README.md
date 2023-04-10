@@ -7,6 +7,8 @@
 - 🌱 Aprendendo diversas áreas de programação, Front, Back, Python, C++, C#, etc.
 - 📫 Contato: bajonasantossp@gmail.com
 
+
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="bajona-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +21,10 @@
 </div>
 
 ##
-[![Top Langs style="align = center;"](https://github-readme-stats.vercel.app/api/top-langs/?username=bajona&layout=compact)](https://github.com/bajona/github-readme-stats)
+
+<a href="https://github.com/bajona/github-readme-stats"> 
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bajona&layout=compact/>
+ </a>
 
 ##
 
