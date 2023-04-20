@@ -23,7 +23,7 @@
 ##
 
 <a href="https://github.com/bajona/github-readme-stats"> 
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bajona&layout=compact/>
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bajon&layout=compact/>
  </a>
 
 ##
