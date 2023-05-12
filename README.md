@@ -1,10 +1,21 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
-   <a href="https://github.com/bajona">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bajona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajona&layout=compact&langs_count=6&theme=tokyonight"/>
-
+ 
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=bajona&show_icons=true&theme=tokyonight"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=bajona&show_icons=true" />
+</picture>
+ <p>
+ <picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bajona&compact=pie&show_icons=true&theme=tokyonight"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajona&show_icons=true"/>
+</picture>
+</p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
