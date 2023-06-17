@@ -3,7 +3,7 @@
 I’m Paulo, tech enthusiast and programming student.
 
 - 🔭 I am currently working as a technology instructor for children, robotics, programming, etc.
-- 🌱 I’m currently study Software Analysis and Development.
+- 🌱 I’m currently studying Software Analysis and Development.
 <br>
 
 #### ⚙️ Some technologies I know:
