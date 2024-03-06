@@ -2,7 +2,7 @@
 
 I’m Paulo, tech enthusiast and programming student.
 
-- 🔭 I am currently working as a technology instructor for children, robotics, programming, etc.
+- 🔭 I currently work as technical support at a networking company
 - 🌱 I’m currently studying Software Analysis and Development.
 <br>
 
