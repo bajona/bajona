@@ -28,6 +28,7 @@ I’m Paulo, tech enthusiast and programming student.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bajona&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajona&layout=compact&langs_count=10&theme=dark"/>
 
+
 </div>
  <div align="center">
   <h2>🐍 Minhas Contribuições! 🐍</h2>
