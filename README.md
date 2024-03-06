@@ -6,7 +6,7 @@ I’m Paulo, tech enthusiast and programming student.
 - 🌱 I’m currently studying Software Analysis and Development.
 <br>
 
-#### ⚙️ Tecnologias que sei e estou me aperfeiçoando:
+#### ⚙️ Some Tecnologies I Know:
 <div>
    <img align="center" alt="bajona-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="bajona-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -31,7 +31,7 @@ I’m Paulo, tech enthusiast and programming student.
 
 </div>
  <div align="center">
-  <h2>🐍 Minhas Contribuições! 🐍</h2>
+  <h2>🐍 My contributions! 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bajona/bajona/output/github-contribution-grid-snake.svg" />
 </div>
 
