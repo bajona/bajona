@@ -6,7 +6,7 @@ I’m Paulo, tech enthusiast and programming student.
 - 🌱 I’m currently studying Software Analysis and Development.
 <br>
 
-#### ⚙️ Some technologies I know:
+#### ⚙️ Tecnologias que sei e estou me aperfeiçoando:
 <div>
    <img align="center" alt="bajona-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="bajona-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -28,7 +28,11 @@ I’m Paulo, tech enthusiast and programming student.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bajona&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajona&layout=compact&langs_count=10&theme=dark"/>
 
-   ![Snake animation](https://github.com/bajona/bajona/blob/output/github-contribution-grid-snake.svg)
+</div>
+ <div align="center">
+  <h2>🐍 Minhas Contribuições! 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bajona/bajona/output/github-contribution-grid-snake.svg" />
+</div>
 
 </div>
 
